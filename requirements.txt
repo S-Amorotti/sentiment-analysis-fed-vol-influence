@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+pdfplumber
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+nltk
+transformers
+torch
+scikit-learn
